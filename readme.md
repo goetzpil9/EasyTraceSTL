@@ -1,4 +1,4 @@
-# EasyTraceSTL -> https://goetzpil9.github.io/EasyTraceSTL/
+# EasyTraceSTL https://goetzpil9.github.io/EasyTraceSTL/
 
 A free, offline & super simple "CAD" / design tool for 3D printing makers. 
 
