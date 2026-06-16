@@ -1,6 +1,6 @@
 # EasyTraceSTL
 
-A free, offline & super simple tool for 3D printing makers. 
+A free, offline & super simple "CAD" tool for 3D printing makers. 
 
 ## How it works:
 1. 🖼️ **Import** any picture
