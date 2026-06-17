@@ -1,6 +1,6 @@
 # EasyTraceSTL https://goetzpil9.github.io/EasyTraceSTL/
 
-A free, offline & super simple "CAD" / design tool for 3D printing makers. 
+Free, offline & super simple "CAD" / 3D design tool to rebuild models from pictures into print-ready STL files.
 
 ## How it works:
 1. 🖼️ **Import** any picture (ideal one with a ruler), set the scale, crop the picture
