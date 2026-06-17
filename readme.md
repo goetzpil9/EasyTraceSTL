@@ -18,3 +18,7 @@ Installation (not necessary):
    desktop app, without the browser toolbar.
 4. The first time you launch it online, the browser downloads everything once.
    After that, the tool works even without an internet connection.
+
+<img width="1912" height="823" alt="image" src="https://github.com/user-attachments/assets/0a9be507-2426-46ec-8168-09a06633465e" />
+
+<img width="1914" height="750" alt="image" src="https://github.com/user-attachments/assets/c5043a2f-866b-4dad-8c30-4f1fba6ecff1" />
